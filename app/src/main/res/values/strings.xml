@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HeteroRecyclerAdapter</string>
+    <string name="sample">Some very long text to demonstrate how to create headers in a recyclerview</string>
+</resources>

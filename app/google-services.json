@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245285188671",
+    "firebase_url": "https://heterorecycleradapter.firebaseio.com",
+    "project_id": "heterorecycleradapter",
+    "storage_bucket": "heterorecycleradapter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245285188671:android:58d8e835bcf94af44c348a",
+        "android_client_info": {
+          "package_name": "com.gideon.heterorecycleradapter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245285188671-26fmp2drprvo9umqcfqjjm8nbsdet0fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gideon.heterorecycleradapter",
+            "certificate_hash": "b09271310ba4e3f2f7680ae49e6a3ab487cc045f"
+          }
+        },
+        {
+          "client_id": "245285188671-970j79beb8gdqkkpkebk56p38qtdg1j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUsZ1j-w93JYzelF4MO45GaoFhWzg-dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245285188671-970j79beb8gdqkkpkebk56p38qtdg1j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
